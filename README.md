@@ -13,7 +13,7 @@
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
-  - Cycle Sort
+  - Cyclic Sort
 * Strings and StringBuilder
 * Pattern Questions
 * Time Complexity
